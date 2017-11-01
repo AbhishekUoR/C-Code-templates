@@ -4,4 +4,7 @@ Directory Consists of basic c++ code
 
 
 
-The command line will be g++ filename -o outputname 
+The command line will be 
+
+
+g++ filename -o outputname 
