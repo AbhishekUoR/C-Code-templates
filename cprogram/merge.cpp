@@ -1,5 +1,5 @@
 #include <iostream>
-
+//O(n log n)
 using namespace std;
 
 void merge(int *a, int start, int middle, int end){
